@@ -16,3 +16,12 @@ created with GenoC.
 
 Validity of compiled Amino Acid Chains is still under
 investigation.
+
+### Where do I get DNA data?
+
+You can perform genome sequencing of the target which
+runs between 5,000 - 10,000 USD.
+
+You also can download DNA from the [NCBI].
+
+[NCBI]:http://www.ncbi.nlm.nih.gov/guide/howto/dwn-genome/
